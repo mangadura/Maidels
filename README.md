@@ -6,3 +6,8 @@ N36
 <img width="1299" height="636" alt="image" src="https://github.com/user-attachments/assets/2c58733a-c7c2-45e9-8c27-d0b2d71e0800" />
 Meu cachoro(acho que minha irmã) comeu minha tecla de print
 Esse trabalho foi feito acompanhando videos no YouTube. Eu fui vendo os exemplos que o pessoal mostrava e fui copiando e adaptando do jeito que precisava
+Potencia:
+Programa que calcula um numero elevado a um expoente, inclusive negativo, e repete no final
+Fibonacci:
+Gera a sequencia de Fibonacci com base no numero digitado e volta pra pergunta depois
+Tabuada:O numero vezes o expoente
