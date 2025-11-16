@@ -5,3 +5,4 @@ N36
 <img width="1313" height="659" alt="image" src="https://github.com/user-attachments/assets/304229d8-6450-4006-a68d-64cdb151d832" />
 <img width="1299" height="636" alt="image" src="https://github.com/user-attachments/assets/2c58733a-c7c2-45e9-8c27-d0b2d71e0800" />
 Meu cachoro(acho que minha irmã) comeu minha tecla de print
+Esse trabalho foi feito acompanhando videos no YouTube. Eu fui vendo os exemplos que o pessoal mostrava e fui copiando e adaptando do jeito que precisava
