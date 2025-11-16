@@ -11,3 +11,4 @@ Programa que calcula um numero elevado a um expoente, inclusive negativo, e repe
 Fibonacci:
 Gera a sequencia de Fibonacci com base no numero digitado e volta pra pergunta depois
 Tabuada:O numero vezes o expoente
+Como o senhor disse em sala uma variavel int so aguenta ate 64bits ou 2.147.483.647 bites então peço para que não coloque numeros muito altos nos codigos
